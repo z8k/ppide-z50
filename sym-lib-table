@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Z50bus")(type "KiCad")(uri "${KIPRJMOD}/Z50bus.kicad_sym")(options "")(descr ""))
+)
