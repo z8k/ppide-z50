@@ -1,0 +1,9 @@
+*-bak
+*-cache*
+*-bak*
+_autosave*
+*.bak
+*-backups
+logs
+*.dsn
+*.ses
