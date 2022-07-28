@@ -28,3 +28,6 @@ Notes:
 | J101 | 2x25 2.54mm right-angle male box header |
 | J102 | 2x8 2.54mm pitch right-angle pin header |
 | J103 | 2x22 2mm pitch pin header |
+
+
+![Image](/doc/assembled.jpg)
